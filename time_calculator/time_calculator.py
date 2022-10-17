@@ -1,5 +1,7 @@
-
+#!usr/bin/python3
 def add_time(time_start, duration, day=None):
+    """Function who sum two given times and return the result, need to be
+    refactorized in the future but is learning exercise and works."""
     days_array = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
     days_index = {"Monday" : 0, "Tuesday" : 1, "Wednesday" : 2, "Thursday" : 3, "Friday" : 4, "Saturday" : 5, "Sunday" : 6}
     am_pm_change = {'AM': 'PM', "PM": "AM"}

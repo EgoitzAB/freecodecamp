@@ -1,5 +1,7 @@
+#!/usr/bin/python3
 
 def arithmetic_arranger(operation, value=False):
+    """Function who return formated values of one arithmetic operation"""
     result = []
     line1 = ''
     line2 = ''

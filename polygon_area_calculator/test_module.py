@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pytest
 from polygon_area import Rectangle, Square
 

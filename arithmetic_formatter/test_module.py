@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from arithmetic_arranger import *
 import pytest
 
